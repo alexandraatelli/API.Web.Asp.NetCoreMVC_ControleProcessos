@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\atell\\Desktop\\Atos\\MeusProjAtos.Net\\academiaDot.Net\\Projeto ASP.Net Core MVC - Controle Processos\\AppControleJuridico.csproj": {}
+    "C:\\Users\\atell\\Desktop\\GitHub - Repositorios\\API.Web.Asp.NetCoreMVC_ControleProcessos\\API.Web.Asp.NetCoreMVC_ControleProcessos\\AppControleJuridico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\atell\\Desktop\\Atos\\MeusProjAtos.Net\\academiaDot.Net\\Projeto ASP.Net Core MVC - Controle Processos\\AppControleJuridico.csproj": {
+    "C:\\Users\\atell\\Desktop\\GitHub - Repositorios\\API.Web.Asp.NetCoreMVC_ControleProcessos\\API.Web.Asp.NetCoreMVC_ControleProcessos\\AppControleJuridico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\atell\\Desktop\\Atos\\MeusProjAtos.Net\\academiaDot.Net\\Projeto ASP.Net Core MVC - Controle Processos\\AppControleJuridico.csproj",
+        "projectUniqueName": "C:\\Users\\atell\\Desktop\\GitHub - Repositorios\\API.Web.Asp.NetCoreMVC_ControleProcessos\\API.Web.Asp.NetCoreMVC_ControleProcessos\\AppControleJuridico.csproj",
         "projectName": "AppControleJuridico",
-        "projectPath": "C:\\Users\\atell\\Desktop\\Atos\\MeusProjAtos.Net\\academiaDot.Net\\Projeto ASP.Net Core MVC - Controle Processos\\AppControleJuridico.csproj",
+        "projectPath": "C:\\Users\\atell\\Desktop\\GitHub - Repositorios\\API.Web.Asp.NetCoreMVC_ControleProcessos\\API.Web.Asp.NetCoreMVC_ControleProcessos\\AppControleJuridico.csproj",
         "packagesPath": "C:\\Users\\atell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\atell\\Desktop\\Atos\\MeusProjAtos.Net\\academiaDot.Net\\Projeto ASP.Net Core MVC - Controle Processos\\obj\\",
+        "outputPath": "C:\\Users\\atell\\Desktop\\GitHub - Repositorios\\API.Web.Asp.NetCoreMVC_ControleProcessos\\API.Web.Asp.NetCoreMVC_ControleProcessos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\atell\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O6rTb7v4GrhsRbJ8RaQ1Pkz7EfHoDTmGAmTxFZ8/EreHvi9q/KlVsjcFD5OC7jPUYKi5zIs48WkjBUikCDVxgA==",
+  "dgSpecHash": "UGILs/umoxkc8S2ZLbC6gXgDEb3obAUGo39G8vFcx7Ww5EdtU2YiuMDv4UVuYTTC/ls5jpOeNv8dGmBh1J80WA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\atell\\Desktop\\Atos\\MeusProjAtos.Net\\academiaDot.Net\\Projeto ASP.Net Core MVC - Controle Processos\\AppControleJuridico.csproj",
+  "projectFilePath": "C:\\Users\\atell\\Desktop\\GitHub - Repositorios\\API.Web.Asp.NetCoreMVC_ControleProcessos\\API.Web.Asp.NetCoreMVC_ControleProcessos\\AppControleJuridico.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\atell\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\atell\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

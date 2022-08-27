@@ -8,105 +8,105 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppControleJuridico
 build_property.RootNamespace = AppControleJuridico
-build_property.ProjectDir = C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Projeto ASP.Net Core MVC - Controle Processos\
+build_property.ProjectDir = C:\Users\atell\Desktop\GitHub - Repositorios\API.Web.Asp.NetCoreMVC_ControleProcessos\API.Web.Asp.NetCoreMVC_ControleProcessos\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\atell\Desktop\Atos\MeusProjAtos.Net\academiaDot.Net\Projeto ASP.Net Core MVC - Controle Processos
+build_property.MSBuildProjectDirectory = C:\Users\atell\Desktop\GitHub - Repositorios\API.Web.Asp.NetCoreMVC_ControleProcessos\API.Web.Asp.NetCoreMVC_ControleProcessos
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/Clientes/Create.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/Clientes/Delete.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/Clientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/Clientes/Details.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/Clientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/Clientes/Edit.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/Clientes/Index.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/Home/Index.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/Home/Privacy.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/Processos/Create.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/Processos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvY2Vzc29zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/Processos/Delete.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/Processos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvY2Vzc29zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/Processos/Details.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/Processos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvY2Vzc29zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/Processos/Edit.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/Processos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvY2Vzc29zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/Processos/Index.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/Processos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvY2Vzc29zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/Shared/Error.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/_ViewImports.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/_ViewStart.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atell/Desktop/Atos/MeusProjAtos.Net/academiaDot.Net/Projeto ASP.Net Core MVC - Controle Processos/Views/Shared/_Layout.cshtml]
+[C:/Users/atell/Desktop/GitHub - Repositorios/API.Web.Asp.NetCoreMVC_ControleProcessos/API.Web.Asp.NetCoreMVC_ControleProcessos/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-sm5cuhadhy
