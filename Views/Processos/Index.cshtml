@@ -1,0 +1,78 @@
+﻿@model IEnumerable<AppControleJuridico.Models.Processo>
+
+@{
+    ViewData["Title"] = "Lista de Processos";
+}
+
+<h3>@ViewData["Title"]</h3>
+
+<p>
+    <a Class="btn btn-info" asp-action="Create">Cadastrar Processo</a>
+</p>
+<table class="table table-houver table-striped" id="tabela" >
+    <thead class="table-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoJustiça)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoAcao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumeroProcesso)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ParteContraria)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Autuacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ValorCausa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ativo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cliente.NomeCliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoJustiça)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoAcao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumeroProcesso)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ParteContraria)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Autuacao)
+            </td>
+            <td>
+                @item.ValorCausa.ToString(format:"C")
+            </td> 
+            <td>
+                @Html.DisplayFor(modelItem => item.Ativo)
+            </td>
+
+            <td class="text-right">
+                <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id"><span class="fa fa-pencil-alt"></span></a> 
+                <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id"><span class="fa fa fa-search"></span></a> 
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id"><span class="fa fa-trash"></span></a> 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

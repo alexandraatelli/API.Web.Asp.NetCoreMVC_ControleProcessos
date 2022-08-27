@@ -1,0 +1,49 @@
+/* _content/AppControleJuridico/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-sm5cuhadhy] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-sm5cuhadhy] {
+  color: #0077cc;
+}
+
+.btn-primary[b-sm5cuhadhy] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-sm5cuhadhy], .nav-pills .show > .nav-link[b-sm5cuhadhy] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-sm5cuhadhy] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-sm5cuhadhy] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-sm5cuhadhy] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-sm5cuhadhy] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-sm5cuhadhy] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

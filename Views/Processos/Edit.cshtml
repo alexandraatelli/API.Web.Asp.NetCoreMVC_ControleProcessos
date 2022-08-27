@@ -1,0 +1,79 @@
+﻿@model AppControleJuridico.Models.Processo
+
+@{
+    ViewData["Title"] = "Alterar os dados do Processo";
+}
+
+<h3>@ViewData["Title"]</h3>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" id="EditFormProc">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ClienteId" class="control-label"></label>
+                <select asp-for="ClienteId" class="form-control" asp-items="ViewBag.ClienteId"></select>
+                <span asp-validation-for="ClienteId" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="TipoJustiça" class="control-label"></label>
+                <input asp-for="TipoJustiça" class="form-control" />
+                <span asp-validation-for="TipoJustiça" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="TipoAcao" class="control-label"></label>
+                <input asp-for="TipoAcao" class="form-control" />
+                <span asp-validation-for="TipoAcao" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="NumeroProcesso" class="control-label"></label>
+                <input asp-for="NumeroProcesso" class="form-control" />
+                <span asp-validation-for="NumeroProcesso" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="ParteContraria" class="control-label"></label>
+                <input asp-for="ParteContraria" class="form-control" />
+                <span asp-validation-for="ParteContraria" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="Autuacao" class="control-label"></label>
+                <input asp-for="Autuacao" class="form-control" />
+                <span asp-validation-for="Autuacao" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="Tramites" class="control-label"></label>
+                <textarea cols="40" rows="3" asp-for="Tramites" class="form-control"></textarea>
+                <span asp-validation-for="Tramites" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="ValorCausa" class="control-label"></label>
+                <input asp-for="ValorCausa" class="form-control" />
+                <span asp-validation-for="ValorCausa" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Ativo" /> @Html.DisplayNameFor(model => model.Ativo)
+                </label>
+            </div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <br />
+                <input type="submit" value="Gravar" class="btn btn-primary" id="BtGravaCli" onclick="ControlaClickBotao('BtGravaCli','EditFormProc')"/>
+                <a Class="btn btn-success" asp-action="Index">Voltar</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
